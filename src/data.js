@@ -4,7 +4,7 @@ export const projects = [
       subtitle: "NextJs Project",
       description: "The Ecommerce website is built using Next.js and TypeScript for the frontend, utilizing MongoDB for the database, and NodeJS for the server-side scripting. I'm currently working on it, if you want to see the current status then visit on my GitHub and see project with your one click  ",
       image:
-        "https://images.unsplash.com/photo-1487611459768-bd414656ea10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YXJ0aWNsZXMlMjB3ZWJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "/ecommers.png",
       link: "https://choisewear-nextjs-ecommerce.vercel.app/",
     },
     {
@@ -12,7 +12,7 @@ export const projects = [
       subtitle: "NextJS Project",
       description: "I  created a business website template using Next.js, a popular framework for building server-rendered React applications. The template was designed to be a starting point for businesses looking to build a professional and high-performing website.",
       image:
-        "https://images.unsplash.com/photo-1661956602944-249bcd04b63f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MTV8fGJ1c2luZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "/businessapp.png",
       link: "https://business-website-template-nextjs.vercel.app/",
     },
     {
@@ -27,7 +27,7 @@ export const projects = [
       subtitle: "NextJs Project",
       description: "The website featured a clean and modern design that was optimized for both desktop and mobile devices. I used React hooks and context API for state management and made the website responsive with CSS Grid and Flexbox. The site was designed to be user-friendly, easy to navigate, and provide a seamless user experience.",
       image:
-        "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "/serviceapp.png",
       link: "https://service-app-delta.vercel.app/",
     },
   ];
