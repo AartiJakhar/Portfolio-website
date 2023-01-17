@@ -35,6 +35,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "mailto:aartijakharkct@gmail.com",
+      style: "rounded-br-md",
     },
     // {
     //   id: 4,
