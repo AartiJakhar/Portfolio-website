@@ -44,7 +44,7 @@ const Contact = () => {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                Parewadi 341516,
+                 341516,
                 <br />
                 kuchaman City(Nagaur), Rajasthan
               </p>
@@ -56,10 +56,7 @@ const Contact = () => {
               <a className="text-indigo-500 leading-relaxed">
                 aartijakharkct@gmail.com
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
-              </h2>
-              <p className="leading-relaxed">123-456-7890</p>
+           
             </div>
           </div>
         </div>
