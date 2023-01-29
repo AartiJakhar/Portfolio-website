@@ -21,7 +21,7 @@ export const projects = [
       title: "Quotes-GraphQL-Apollo ",
       subtitle: "ReactJS Project(GraphQL)",
       description: "Quotes-GraphQL-Apollo is a React Application for uploading own Quotes on the cloud.I used Mongoose as an Object Document Mapping (ODM) library to interact with the MongoDB database and implemented pagination for better performance and scalability, GraphQL to establish connection with DataBase",
-      image: "/Quotes.png",
+      image: "/quotes.png",
       link: "https://github.com/AartiJakhar/Quotes-GraphQL-Apollo",
       codeLink:"https://github.com/AartiJakhar/Quotes-GraphQL-Apollo"
     },
