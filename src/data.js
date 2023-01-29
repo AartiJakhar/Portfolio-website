@@ -40,6 +40,7 @@ export const projects = [
     "Node.js / express(pug) / MongoDB",
     "Javascript / TypeScript",
     "React.js / Next.js ",
+    "GraphQl / Apollo ",
     "HTML / CSS",
     "GIT / GITHUB",
     "Logo Designer(Photoshop) ",
