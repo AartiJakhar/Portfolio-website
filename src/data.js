@@ -6,6 +6,7 @@ export const projects = [
       image:
         "/ecommers.png",
       link: "https://choisewear-nextjs-ecommerce.vercel.app/",
+      codeLink:"https://github.com/AartiJakhar/choisewear-nextjs-ecommerce"
     },
     {
       title: "Business App",
@@ -14,13 +15,15 @@ export const projects = [
       image:
         "/businessapp.png",
       link: "https://business-website-template-nextjs.vercel.app/",
+      codeLink:"https://github.com/AartiJakhar/Business-Website-Template-Nextjs"
     },
     {
-      title: "TODO List App",
-      subtitle: "ReactJS Project",
-      description: "ShortNotebook is a React Application for managing personal notes on the cloud.I used Mongoose as an Object Document Mapping (ODM) library to interact with the MongoDB database and implemented pagination for better performance and scalability",
-      image: "https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG9kb2xpc3R8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
-      link: "https://github.com/AartiJakhar/shortnotebook",
+      title: "Quotes-GraphQL-Apollo ",
+      subtitle: "ReactJS Project(GraphQL)",
+      description: "Quotes-GraphQL-Apollo is a React Application for uploading own Quotes on the cloud.I used Mongoose as an Object Document Mapping (ODM) library to interact with the MongoDB database and implemented pagination for better performance and scalability, GraphQL to establish connection with DataBase",
+      image: "/Quotes.png",
+      link: "https://github.com/AartiJakhar/Quotes-GraphQL-Apollo",
+      codeLink:"https://github.com/AartiJakhar/Quotes-GraphQL-Apollo"
     },
     {
       title: "Service App",
@@ -29,6 +32,7 @@ export const projects = [
       image:
         "/serviceapp.png",
       link: "https://service-app-delta.vercel.app/",
+      codeLink:"https://github.com/AartiJakhar/service-app"
     },
   ];
   
