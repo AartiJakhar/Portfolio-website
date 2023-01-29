@@ -2,7 +2,7 @@ const About = () => {
   return (
     <section id="about">
       <div className="container mx-auto flex px-16 py-20 lg:flex-row flex-col items-center">
-        <div className="lg:flex-grow lg:w-1/2 lg:pr-24  flex flex-col lg:items-start lg:text-left mb-16  items-center text-center">
+        <div className="lg:flex-grow lg:w-1/2 lg:pr-0  flex flex-col lg:items-start lg:text-left mb-16  items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Aarti Jakhar a full stack  developer.
           </h1>
@@ -45,7 +45,7 @@ const About = () => {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="https://i.pinimg.com/originals/a7/2b/1a/a72b1aa94154e5ce6a1e1efaed96e424.jpg"
+            src="/aartijakhar.svg"
           />
         </div>
       </div>
