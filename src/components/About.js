@@ -7,7 +7,7 @@ const About = () => {
             Hi, I'm Aarti Jakhar a full stack web developer.
           </h1>
           <p className="mb-4 leading-relaxed pt-10">
-            Aspiring web developer currently undergoing a 3-month internship at GVR, Jaipur, where I am developing skills in MERN Stack, Next.js, GraphQL, and Apollo Server/Client.
+          As a MERN Stack developer and Next Js  developer currently working  at GVR, Jaipur, where I am developing skills like  Team Handling and communication.
           </p>
           <p className="mb-8 leading-relaxed pb-10">
           Demonstrated my ability to create and implement efficient and effective web solutions through completion of projects such as a full-featured e-commerce website using Next.js and MongoDB, A blogging website using MERN Stack, and a to-do list management type website using GraphQL. Possess excellent problem-solving skills, excellent written and verbal communication skills, and ability to work independently or in a team environment.
