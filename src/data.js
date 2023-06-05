@@ -31,12 +31,13 @@ export const projects = [
       description: "The website featured a clean and modern design that was optimized for both desktop and mobile devices. I used React hooks and context API for state management and made the website responsive with CSS Grid and Flexbox. The site was designed to be user-friendly, easy to navigate, and provide a seamless user experience.",
       image:
         "/serviceapp.png",
-      link: "https://service-app-delta.vercel.app/",
+      link: "https://serviwo-official.vercel.app/",
       codeLink:"https://github.com/AartiJakhar/service-app"
     },
   ];
   
   export const skills = [
+      "Python / Flask",
     "Node.js / express(pug) / MongoDB",
     "Javascript / TypeScript",
     "React.js / Next.js ",
